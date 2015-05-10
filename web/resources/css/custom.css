@@ -1,0 +1,9 @@
+/*** custom styles & theme overrides ***/
+.main-header .logo .logo-lg{margin-top:5px;}
+.info-box-icon i {line-height:90px;}
+.travelPackages label{font-weight:normal;}
+#myDropZone{border: 3px dashed #3c8dbc;}
+
+/* login page styles */
+.login-page{background-color:#222d32;}
+#errorMsg{color:#a92222};
